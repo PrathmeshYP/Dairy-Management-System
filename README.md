@@ -61,11 +61,8 @@ python milk_reports.py
 # Author
 
 Prathmesh Yadav Patil
-GitHub: [https://github.com/PrathmeshYP](https://github.com/PrathmeshYP)
+GitHub:(https://github.com/PrathmeshYP)
 
 # License
 
 This project is developed for educational purposes only.
-
-
-Just tell me 😊
