@@ -15,6 +15,7 @@ The project is suitable for academic and learning purposes and follows a modular
 # Project Structure
 
 * dairy_management.py – main program file
+* insert_admin.py - admin insertion 
 * milk_receipt_ui.py – user interface for milk receipt
 * milk_reports.py – milk report generation
 * test_connection.py – database connection testing
